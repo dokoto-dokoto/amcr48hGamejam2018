@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4b3bbb2ff3fa6bd4d8e2c9b0eb0da03e
+timeCreated: 1525404008
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioMixer: {fileID: 24100000, guid: 9fd5abd8c35e7864489a43485f0f8245, type: 2}
+  - _bgm: {instanceID: 0}
+  - _se: {instanceID: 0}
+  - bgmSlider: {instanceID: 0}
+  - seSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
